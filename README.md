@@ -11,3 +11,4 @@ Soluciones a los ejercicios del libro de JS en librosweb.es
 * 07: Programa que calcula el factorial de un número entero (versión iterativa).
 * 08: Programa que verifica si el número ingresado es par o impar.
 * 09: Comprueba si el texto ingresado tiene mayúsculas, minúsculas u otros.
+* 10: Comprueba si el texto ingresado es un palíndromo. Función recursiva.
