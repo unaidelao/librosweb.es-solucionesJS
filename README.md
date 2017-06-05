@@ -13,3 +13,4 @@ Soluciones a los ejercicios del libro de JS en librosweb.es
 * 09: Comprueba si el texto ingresado tiene mayúsculas, minúsculas u otros.
 * 10: Comprueba si el texto ingresado es un palíndromo. Función recursiva.
 * 11: DOM Básico
+* 12: DOM Básico y Atributos
