@@ -14,3 +14,4 @@ Soluciones a los ejercicios del libro de JS en librosweb.es
 * 10: Comprueba si el texto ingresado es un palíndromo. Función recursiva.
 * 11: DOM Básico
 * 12: DOM Básico y Atributos
+* 13: DOM Básico y Atributos (2)
