@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+  font-family: "Arial", Helvetica, sans-serif;
+}
+
+.alineadoIzquierda {
+  text-align: left;
+}
+
+.oculto {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
+
